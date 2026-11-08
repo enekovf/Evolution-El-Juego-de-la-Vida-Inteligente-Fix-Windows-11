@@ -1,0 +1,16 @@
+LIBRARY SH33W32
+EXPORTS
+    MemPoolInit=_MemPoolInit@4 @10
+    MemPoolSetPageSize=_MemPoolSetPageSize@8 @20
+    MemPoolSetBlockSizeFS=_MemPoolSetBlockSizeFS@8 @22
+    MemPoolShrink=_MemPoolShrink@4 @30
+    MemPoolSize=_MemPoolSize@4 @34
+    MemPoolWalk=_MemPoolWalk@8 @46
+    MemPoolCheck=_MemPoolCheck@4 @48
+    MemAllocPtr=_MemAllocPtr@12 @70
+    MemFreePtr=_MemFreePtr@4 @72
+    MemReAllocPtr=_MemReAllocPtr@12 @74
+    MemSizePtr=_MemSizePtr@4 @77
+    MemCheckPtr=_MemCheckPtr@8 @79
+    _shi_enterCriticalSection @298
+    _shi_leaveCriticalSection @299

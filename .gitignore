@@ -1,0 +1,21 @@
+# Compilación de la DLL (la versión publicada está en bin/)
+dll/*.obj
+dll/*.lib
+dll/*.exp
+dll/*.DLL
+dll/*.dll
+
+# Nunca subir archivos del juego ni derivados
+*.SMK
+*.smk
+*.mp4
+*.WAV
+*.wav
+*.HLP
+*.MRD
+*.bin
+*.cue
+*.iso
+EVOLUTION.EXE
+EVOLUTION.EXE.orig
+evo-trace.log
