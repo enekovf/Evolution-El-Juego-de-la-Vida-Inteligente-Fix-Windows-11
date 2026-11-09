@@ -6,6 +6,8 @@ Arreglo no oficial para jugar a **Evolution: El juego de la vida inteligente** (
 
 Este repositorio **no contiene el juego**: necesitas tu propio CD (o una imagen suya). El instalador lo copia y le aplica el arreglo.
 
+![Evolution funcionando en Windows 11: mapa, globo, control de la criatura, árbol de la vida y búsqueda](docs/captura.jpg)
+
 ## Qué consigues
 
 - **Funciona en Windows 10 y 11:** sin el instalador original (que exige Windows 95), sin permisos de administrador y sin modos de compatibilidad.
